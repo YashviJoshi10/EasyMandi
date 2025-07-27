@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+}
+
+.accordion-button {
+  background-color: #e9f2ff;
+  font-weight: 500;
+  color: #1e2a38;
+}
+
+.accordion-body {
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+  border-top: none;
+}
+
+.table {
+  background-color: white;
+}
+
+.btn {
+  border-radius: 8px;
+  font-weight: 500;
+}
